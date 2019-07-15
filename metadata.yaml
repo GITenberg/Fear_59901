@@ -1,5 +1,5 @@
 _repo: Fear_59901
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Lough, E.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Kiesow, F.
     gutenberg_agent_id: '50684'
     url: http://www.gutenberg.org/2009/agents/50684
+covers:
+- cover_type: archival
+  image_path: 59901-h/images/cover.jpg
 creator:
   author:
     agent_name: Mosso, A. (Angelo)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '42054'
     url: http://www.gutenberg.org/2009/agents/42054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59901#Fear
 gutenberg_issued: '2019-07-11'
 gutenberg_type: Text
 identifiers:
